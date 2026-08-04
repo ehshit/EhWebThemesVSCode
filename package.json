@@ -1,0 +1,89 @@
+{
+  "name": "EhWebThemes",
+  "displayName": "Eh's Web Themes",
+  "description": "Themes to your Visual Studio Code from eh's websites",
+  "version": "1.0.2",
+  "publisher": "gayeh",
+  "scripts": {
+    "build": "npx vsce package"
+  },
+  "devDependencies": {
+    "vsce": "^2.0.0"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eh's Main Website Theme",
+        "uiTheme": "vs",
+        "path": "./themes/EhMainWeb.json"
+      },
+      {
+        "label": "Eh's Clipboard (Website)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EhClipboard.json"
+      },
+      {
+        "label": "Eh's Clipboard Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EhClipboardDarkTheme.json"
+      },
+      {
+        "label": "Eh's Clipboard Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/EhClipboardLightTheme.json"
+      },
+      {
+        "label": "Just Plots",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JustPlots.json"
+      },
+      {
+        "label": "Just Plots (Server Plugin)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JustPlotsPluginVariation.json"
+      },
+      {
+        "label": "blogs.ehis.gay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blogs.ehis.gay.json"
+      },
+      {
+        "label": "ssh.ehis.gay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ssh.ehis.gay.json"
+      },
+      {
+        "label": "Eh's Docs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EhDocs.json"
+      },
+      {
+        "label": "time.ehis.gay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/time.ehis.gay.json"
+      },
+      {
+        "label": "whois.ehis.gay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/whois.ehis.gay.json"
+      },
+      {
+        "label": "Favicon Stealer (Extension)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/FaviconStealer.json"
+      },
+      {
+        "label": "Stoat or Revolt (Extension)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/StoatOrRevolt.json"
+      }
+    ]
+  }
+}
