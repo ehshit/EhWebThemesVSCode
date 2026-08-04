@@ -2,7 +2,9 @@
   "name": "EhWebThemes",
   "displayName": "Eh's Web Themes",
   "description": "Themes to your Visual Studio Code from eh's websites",
-  "version": "1.0.2",
+  "repository": "https://github.com/ehshit/EhWebThemesVSCode/",
+  "license": "MIT",
+  "version": "1.0.3",
   "publisher": "gayeh",
   "scripts": {
     "build": "npx vsce package"
