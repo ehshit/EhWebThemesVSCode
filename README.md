@@ -11,6 +11,8 @@ Eh's Themes brings themes to your visual studio code that are based off my own w
 - ssh.ehis.gay
 - Eh's Docs
 - time.ehis.gay
+- whois.ehis.gay
+- game.ehis.gay
 - Favicon Stealer (Extension)
 - Stoat Or Revolt (Extension)
 

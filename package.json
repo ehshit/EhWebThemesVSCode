@@ -4,7 +4,7 @@
   "description": "Themes to your Visual Studio Code from eh's websites",
   "repository": "https://github.com/ehshit/EhWebThemesVSCode/",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "gayeh",
   "scripts": {
     "build": "npx vsce package"
@@ -75,6 +75,11 @@
         "label": "whois.ehis.gay",
         "uiTheme": "vs-dark",
         "path": "./themes/whois.ehis.gay.json"
+      },
+      {
+        "label": "game.ehis.gay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/game.ehis.gay.json"
       },
       {
         "label": "Favicon Stealer (Extension)",

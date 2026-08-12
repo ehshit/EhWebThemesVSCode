@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.4]
+
+## Added:
+- game.ehis.gay
+
+## Changed:
+- whois.ehis.gay and Just Plots' colors was changed
+
 ## [1.0.3]
 
 Open Source
